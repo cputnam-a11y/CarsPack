@@ -1,0 +1,13 @@
+name = "CliffTree"
+filename = "CliffTree 3.2.1 - 26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/ccmOs0V8/CliffTree%203.2.1%20-%2026.1.jar"
+hash-format = "sha512"
+hash = "deea54409edb9881fd526fb439e9c82972ab38ae0867f109a9382bff5248aba2130a2ff0d23a6540daf66fdd493babf6e633676e004d2305b07706eb930f7031"
+
+[update]
+[update.modrinth]
+mod-id = "59ypHk8x"
+version = "ccmOs0V8"

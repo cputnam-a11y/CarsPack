@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/clifftree.pw.toml"
+hash = "657c7da5836f8f8fede176445fcbc198e9783826e0981e7ff77ce7ca263fb191"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "c2f5b9d0c1d636cc08f302f16558a620be6c1b838642f2e6048e09f43a0d012e"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "9319c3c28fcf1d824c7ac999851cdbcf3be9e9a1fe289e854cbebc15dc63b899"
+metafile = true
