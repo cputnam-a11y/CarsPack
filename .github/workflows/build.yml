@@ -4,7 +4,7 @@
 # against bad commits.
 
 name: build
-on: [pull_request, push]
+on: [pull_request, push, workflow_dispatch]
 
 jobs:
   build:
@@ -26,9 +26,9 @@ jobs:
           java-version: ${{ matrix.java }}
           distribution: 'microsoft'
       - name: Make Gradle Executable
-        run: chmod +x ./gradlew
+        run: chmod +x ./mod/gradlew
       - name: Build
-        run: ./gradlew build
+        run: ./mod/gradlew -p ./mod build
       - name: Collect jars
         run: |
           mkdir tmp
