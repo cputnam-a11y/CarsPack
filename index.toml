@@ -349,6 +349,7 @@ hash = "c2f5b9d0c1d636cc08f302f16558a620be6c1b838642f2e6048e09f43a0d012e"
 metafile = true
 
 [[files]]
+
 file = "mods/modmenu.pw.toml"
 hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
 metafile = true
@@ -406,6 +407,9 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "6c583c39183416e6e5e3472d20af187f5a8c0a31b722cd72092a53c6b8abb969"
+
+file = "mods/quickleafdecay.pw.toml"
+hash = "740189c3010ec7a924a3f8f91d3bb6649eae654dbc501d0542a44b29f8ca4929"
 metafile = true
 
 [[files]]
