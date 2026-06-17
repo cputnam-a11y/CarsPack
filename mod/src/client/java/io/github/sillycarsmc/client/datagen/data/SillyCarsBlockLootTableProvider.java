@@ -19,3 +19,21 @@
  * <https://www.gnu.org/licenses/>.
  */
 
+package io.github.sillycarsmc.client.datagen.data;
+
+import net.fabricmc.fabric.api.datagen.v1.FabricPackOutput;
+import net.fabricmc.fabric.api.datagen.v1.provider.FabricBlockLootSubProvider;
+import net.minecraft.core.HolderLookup;
+
+import java.util.concurrent.CompletableFuture;
+
+public final class SillyCarsBlockLootTableProvider extends FabricBlockLootSubProvider {
+	public SillyCarsBlockLootTableProvider(final FabricPackOutput packOutput, final CompletableFuture<HolderLookup.Provider> registriesFuture) {
+		super(packOutput, registriesFuture);
+	}
+
+	@Override
+	public void generate() {
+
+	}
+}

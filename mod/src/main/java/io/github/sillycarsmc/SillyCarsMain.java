@@ -19,3 +19,20 @@
  * <https://www.gnu.org/licenses/>.
  */
 
+package io.github.sillycarsmc;
+
+import io.github.sillycarsmc.config.SillyCarsServerConfig;
+import io.github.sillycarsmc.content.SillyCarsEvents;
+import io.github.sillycarsmc.content.items.SillyCarsItems;
+import io.github.sillycarsmc.content.blocks.SillyCarsBlocks;
+import net.fabricmc.api.ModInitializer;
+
+public final class SillyCarsMain implements ModInitializer {
+	@Override
+	public void onInitialize() {
+		SillyCarsServerConfig.load();
+		SillyCarsBlocks.initialize();
+		SillyCarsItems.initialize();
+		SillyCarsEvents.initialize();
+	}
+}

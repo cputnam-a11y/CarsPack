@@ -4,6 +4,7 @@ plugins {
 	alias(libs.plugins.blossom)
 	alias(libs.plugins.ksp)
 	alias(libs.plugins.spotless)
+	id("be.vbgn.ci-detect") version "0.1.0"
 	id("maven-publish")
 }
 
@@ -100,7 +101,7 @@ dependencies {
 
 	compileOnly("org.projectlombok:lombok:${deps.lombokVersion}")
 	annotationProcessor("org.projectlombok:lombok:${deps.lombokVersion}")
-    if (providers.environmentVariable("CI").get().isEmpty())
+    if (!ci.isCi)
 	runtimeOnly("me.djtheredstoner:DevAuth-${loader.name}:${deps.devAuthVersion}")
 	include(implementation("com.moulberry:mixinconstraints:${deps.mixinConstraintsVersion}")!!)!!
 	include(implementation(annotationProcessor("com.github.bawnorton.mixinsquared:mixinsquared-${loader.name}:${deps.mixinSquaredVersion}")!!)!!)

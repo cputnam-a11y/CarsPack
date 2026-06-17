@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "io.github.sillycarsmc.client.mixins",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"FontMixin",
+		"GuiTextRenderStateMixin",
+		"MixinMinecraft"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

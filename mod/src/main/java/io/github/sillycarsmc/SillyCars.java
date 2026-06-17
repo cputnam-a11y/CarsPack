@@ -19,3 +19,23 @@
  * <https://www.gnu.org/licenses/>.
  */
 
+package io.github.sillycarsmc;
+
+import net.minecraft.ChatFormatting;
+import net.minecraft.network.chat.Component;
+import net.minecraft.resources.Identifier;
+import net.minecraft.util.Util;
+
+public final class SillyCars {
+	public static final String MOD_ID = "@MODID@";
+	public static final String VERSION = "@VERSION@";
+	public static final String COMMIT_HASH = "@COMMIT_HASH@";
+
+	public static Identifier withPath(final String path) {
+		return Identifier.fromNamespaceAndPath(MOD_ID, path);
+	}
+
+	public static Component createItemDescription(final String key) {
+		return Component.translatable(Util.makeDescriptionId("item", withPath(key))).withStyle(ChatFormatting.BLUE);
+	}
+}

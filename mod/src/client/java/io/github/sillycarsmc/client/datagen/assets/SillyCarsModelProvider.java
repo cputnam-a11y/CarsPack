@@ -19,3 +19,30 @@
  * <https://www.gnu.org/licenses/>.
  */
 
+package io.github.sillycarsmc.client.datagen.assets;
+
+import net.fabricmc.fabric.api.client.datagen.v1.provider.FabricModelProvider;
+import net.fabricmc.fabric.api.datagen.v1.FabricPackOutput;
+import net.minecraft.client.data.models.BlockModelGenerators;
+import net.minecraft.client.data.models.ItemModelGenerators;
+
+public final class SillyCarsModelProvider extends FabricModelProvider {
+	public SillyCarsModelProvider(final FabricPackOutput output) {
+		super(output);
+	}
+
+	@Override
+	public void generateBlockStateModels(final BlockModelGenerators blockModelGenerators) {
+
+	}
+
+	@Override
+	public void generateItemModels(final ItemModelGenerators itemModelGenerators) {
+
+	}
+
+	@Override
+	public String getName() {
+		return "ModelProvider";
+	}
+}

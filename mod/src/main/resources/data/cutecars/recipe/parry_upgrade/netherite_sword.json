@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:smithing_transform",
-	"template": "cutecars:blocking_upgrade",
+	"template": "sillycars:blocking_upgrade",
 	"base": "minecraft:netherite_sword",
 	"addition": [
 		"minecraft:netherite_ingot"

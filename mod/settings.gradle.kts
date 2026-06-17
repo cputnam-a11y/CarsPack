@@ -15,4 +15,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CuteCars"
+rootProject.name = "SillyCars"

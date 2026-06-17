@@ -19,3 +19,14 @@
  * <https://www.gnu.org/licenses/>.
  */
 
+package io.github.sillycarsmc.client;
+
+import io.github.sillycarsmc.client.config.SillyCarsClientConfig;
+import net.fabricmc.api.ClientModInitializer;
+
+public final class SillyCarsClient implements ClientModInitializer {
+	@Override
+	public void onInitializeClient() {
+		SillyCarsClientConfig.load();
+	}
+}

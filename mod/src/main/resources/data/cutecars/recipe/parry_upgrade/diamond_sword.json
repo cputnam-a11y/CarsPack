@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:smithing_transform",
-	"template": "cutecars:blocking_upgrade",
+	"template": "sillycars:blocking_upgrade",
 	"base": "minecraft:diamond_sword",
 	"addition": [
 		"minecraft:diamond"

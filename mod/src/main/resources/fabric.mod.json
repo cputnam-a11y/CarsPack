@@ -19,23 +19,23 @@
 	"environment": "*",
 	"entrypoints": {
 		"client": [
-			"io.github.cutecarsmc.client.CuteCarsClient"
+			"io.github.sillycarsmc.client.SillyCarsClient"
 		],
 		"main": [
-			"io.github.cutecarsmc.CuteCarsMain"
+			"io.github.sillycarsmc.SillyCarsMain"
 		],
 		"modmenu": [
-			"io.github.cutecarsmc.client.config.ModMenuIntegration"
+			"io.github.sillycarsmc.client.config.ModMenuIntegration"
 		],
 		"fabric-datagen": [
-			"io.github.cutecarsmc.client.datagen.CuteCarsDataGenerator"
+			"io.github.sillycarsmc.client.datagen.SillyCarsDataGenerator"
 		]
 	},
 	"mixins": [
-		"cutecars.mixins.json",
+      "sillycars.mixins.json",
 		{
 			"environment": "client",
-			"config": "cutecars-client.mixins.json"
+			"config": "sillycars-client.mixins.json"
 		}
 	],
 	"depends": {
