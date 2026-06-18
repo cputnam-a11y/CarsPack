@@ -95,6 +95,10 @@ file = "mods/create-alloyed.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-fly.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 metafile = true
 
