@@ -1,0 +1,19 @@
+{
+    "assets": {
+    "awake": "sillycars:entity/fox/fox_cross",
+    "sleeping": "sillycars:entity/fox/fox_cross_sleep"
+  },
+  "baby_assets": {
+    "awake": "sillycars:entity/fox/fox_cross_baby",
+    "sleeping": "sillycars:entity/fox/fox_cross_baby_sleep"
+  },
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#sillycars:cross_fox_biomes"
+      },
+      "priority": 1
+    }
+  ]
+}
