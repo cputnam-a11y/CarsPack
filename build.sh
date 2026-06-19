@@ -22,3 +22,6 @@ mkdir -p ../out
 packwiz modrinth export -o ../out/silly_cars.mrpack
 packwiz refresh --build
 cp -r ./* ../out/
+mkdir SillyCars
+cp -r ../unsup/* ./SillyCars
+zip -r ../out/SillyCars.zip SillyCars
