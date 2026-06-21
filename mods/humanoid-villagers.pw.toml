@@ -1,0 +1,13 @@
+name = "Humanoid Villagers"
+filename = "1.0.3.1-humvil_mod-26.1-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnQXn8fK/versions/aJGGTBDb/1.0.3.1-humvil_mod-26.1-26.2.jar"
+hash-format = "sha512"
+hash = "771446dafa0fb6a1344c710567914607b586bb0bd7bfa983c5f4cba84f4c3283595c843ed4bdd13f2b95f0214009b8d57fa606add2c44591c672050626e01619"
+
+[update]
+[update.modrinth]
+mod-id = "fnQXn8fK"
+version = "aJGGTBDb"

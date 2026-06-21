@@ -1,0 +1,13 @@
+name = "Slabbed"
+filename = "slabbed-0.4.1-beta.1+26.1.2-port.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5nraCxl9/versions/TRWyNBSe/slabbed-0.4.1-beta.1%2B26.1.2-port.jar"
+hash-format = "sha512"
+hash = "076128d84c5bf1f22d2190836e2259c92a79af2edf812f1c1b78a5e6e3bb9c502352d6a7a6b78ba84707f1267bc29f78bbf1f745ec300c3f62f33a89caa226bd"
+
+[update]
+[update.modrinth]
+mod-id = "5nraCxl9"
+version = "TRWyNBSe"

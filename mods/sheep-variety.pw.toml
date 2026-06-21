@@ -1,0 +1,13 @@
+name = "Sheep Variety"
+filename = "SheepVariety-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D3buchWZ/versions/OlDUi589/SheepVariety-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "67096cff808b1bfff3403c1355aae45e79196aa38d802259689f2b9402d4ac732e420c9edc9dc700c9108a513963563a86679ce34f878d128c4c87fb6a0db9cb"
+
+[update]
+[update.modrinth]
+mod-id = "D3buchWZ"
+version = "OlDUi589"

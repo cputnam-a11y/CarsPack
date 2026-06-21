@@ -11,6 +11,10 @@ file = "mods/3dskinlayers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/all-the-heads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 metafile = true
 
@@ -91,6 +95,10 @@ file = "mods/blaha-replushed.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bloomcraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/breakerplacer.pw.toml"
 metafile = true
 
@@ -167,6 +175,10 @@ file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/combat-nouveau.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 metafile = true
 
@@ -195,6 +207,10 @@ file = "mods/countereds-smooth-f5.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-alloyed.pw.toml"
 metafile = true
 
@@ -212,6 +228,10 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions-unofficial-fabric-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crowbar.pw.toml"
 metafile = true
 
 [[files]]
@@ -359,19 +379,11 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/frozenlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fuji.pw.toml"
 metafile = true
 
 [[files]]
@@ -408,6 +420,10 @@ metafile = true
 
 [[files]]
 file = "mods/horizontal-glass-panes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/humanoid-villagers.pw.toml"
 metafile = true
 
 [[files]]
@@ -503,6 +519,10 @@ file = "mods/luna-slimes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/map-direction.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
 metafile = true
 
@@ -531,71 +551,11 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/more-barrel-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-bed-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-beehive-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-cartography-tables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-chest-variants-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-chiseled-bookshelf-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-composter-variants.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/more-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/more-feeding-trough-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-fletching-tables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-grindstone-variants.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/more-kittens.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-lectern-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-loom-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-shield-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-smithing-tables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-smoker-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -703,6 +663,10 @@ file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pyrite.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/quickleafdecay.pw.toml"
 metafile = true
 
@@ -783,6 +747,10 @@ file = "mods/sensible-stackables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sheep-variety.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shine.pw.toml"
 metafile = true
 
@@ -795,6 +763,10 @@ file = "mods/shoulder-surfing-reloaded.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shroomcraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
@@ -803,7 +775,15 @@ file = "mods/simple-fishing-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-resource-loader.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slabbed.pw.toml"
 metafile = true
 
 [[files]]
@@ -883,6 +863,10 @@ file = "mods/superb-steeds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tech-extensions.pw.toml"
 metafile = true
 
@@ -940,6 +924,10 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-structure-update.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "All The Heads"
+filename = "AllTheHeads-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ax17wp3L/versions/Bav6T7Yd/AllTheHeads-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "92cf2504fe69e12ee3eff36ecff2547dc7f43fa011fc013fb6d63909a08e39229484685db6f712c841d2d7c6e9ed7df94e396b17a850203d1a2968259361f2ef"
+
+[update]
+[update.modrinth]
+mod-id = "Ax17wp3L"
+version = "Bav6T7Yd"

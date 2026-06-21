@@ -1,0 +1,13 @@
+name = "Shroomcraft"
+filename = "Shroomcraft-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ORxNgqTW/versions/NhqjphKc/Shroomcraft-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "2a6cf41532bfbe3932628a7bbecd1acc50ca336ff62e7fc3513ff509af209880f5bb1a67c57d355d2105e2266668ffdd68226c79236454d95937ffb5e7038be1"
+
+[update]
+[update.modrinth]
+mod-id = "ORxNgqTW"
+version = "NhqjphKc"

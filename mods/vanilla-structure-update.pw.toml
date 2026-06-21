@@ -1,0 +1,13 @@
+name = "Vanilla Structure Update"
+filename = "vanilla-structure-update-v2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q3gDW66d/versions/zTXmkLiD/vanilla-structure-update-v2.9.jar"
+hash-format = "sha512"
+hash = "c1ab30017b66b7daf8cb344a62800e76421c4712d53409d5b6b5b6ad04e5fd244d2f024c84ae4b9af2f1076efecfeb6bc4f4ed19225cbbc178e2c6c37e8a7764"
+
+[update]
+[update.modrinth]
+mod-id = "q3gDW66d"
+version = "zTXmkLiD"
