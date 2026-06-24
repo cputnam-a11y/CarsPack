@@ -31,7 +31,7 @@
 			"io.github.sillycarsmc.client.datagen.SillyCarsDataGenerator"
 		],
 		"mixinsquared": [
-			"io.github.sillycarsmc.mixin2.Canceller"
+			"io.github.sillycarsmc.patch.Canceller"
 		]
 	},
 	"mixins": [
@@ -39,7 +39,8 @@
 		{
 			"environment": "client",
 			"config": "sillycars-client.mixins.json"
-		}
+		},
+		"sillycars.patches.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=${fabric_loader_version}",

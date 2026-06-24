@@ -19,7 +19,7 @@
  * <https://www.gnu.org/licenses/>.
  */
 
-package io.github.sillycarsmc.mixin2;
+package io.github.sillycarsmc.patch;
 
 import com.bawnorton.mixinsquared.api.MixinCanceller;
 
@@ -28,6 +28,7 @@ import java.util.List;
 public class Canceller implements MixinCanceller {
 	@Override
 	public boolean shouldCancel(List<String> targetClassNames, String mixinClassName) {
+		// fixed in rrv already, causes a crash because rrv no longer has the target due to the fix
 		if (mixinClassName.contains("com.zurrtum.create.client.mixin.BuiltInReliableRecipeViewerClientIntegrationMixin")) return true; // breaks rrv 8.3.1
 		return false;
 	}

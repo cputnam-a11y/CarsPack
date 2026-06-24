@@ -55,6 +55,20 @@ java {
 	targetCompatibility = JavaVersion.VERSION_25
 }
 
+repositories {
+	exclusiveContent {
+		forRepository {
+			maven {
+				name = "Modrinth"
+				url = uri("https://api.modrinth.com/maven")
+			}
+		}
+		filter {
+			includeGroup("maven.modrinth")
+		}
+	}
+}
+
 loom {
 	splitEnvironmentSourceSets()
 
@@ -118,6 +132,8 @@ dependencies {
 			exclude(group = "net.fabricmc.fabric-api")
 		}
 	}
+
+	compileOnly("maven.modrinth:techreborn:6.0.5")
 }
 
 tasks {
