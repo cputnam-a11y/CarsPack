@@ -241,6 +241,10 @@ file = "mods/crawl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/creaddon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-alloyed.pw.toml"
 metafile = true
 

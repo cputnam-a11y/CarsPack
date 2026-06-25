@@ -1,0 +1,8 @@
+name = "Creaddon"
+filename = "creaddon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AkashiiKun/Akashii_Creaddons/releases/download/v5/creaddon-1.0.0.jar"
+hash-format = "sha256"
+hash = "45b9036cce373251c78d5e1475aaea240326cfe52153a7a7ecd8b3ca46a23a8d"
