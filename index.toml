@@ -241,6 +241,10 @@ file = "mods/crawl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/creaddon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-alloyed.pw.toml"
 metafile = true
 
@@ -570,6 +574,10 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
 metafile = true
 
 [[files]]
