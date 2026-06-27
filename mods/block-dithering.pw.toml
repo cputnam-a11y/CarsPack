@@ -1,13 +1,13 @@
 name = "Block Dithering"
-filename = "BlockDithering-1.0.0+26.1+fabric.jar"
+filename = "BlockDithering-1.0.1+26.1+fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "b1d9fcd1a9a5950360a3227bcf14b6fc3b7bab8d"
+hash = "868644eb75bdb9e1be4125008ca2f75bd8b739ba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8296311
+file-id = 8325760
 project-id = 1577133

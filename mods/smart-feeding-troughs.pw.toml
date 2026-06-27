@@ -1,0 +1,13 @@
+name = "Smart Feeding Troughs"
+filename = "smartfeedingtroughs-fabric-26.1.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4dEFIhvD/versions/woEatwDX/smartfeedingtroughs-fabric-26.1.2-1.2.0.jar"
+hash-format = "sha512"
+hash = "7e4d20fbcf260cb3ae254afe37e1afd907f029b67afdc9f83eccb28f70391598a25aa750fcac578e0717e1e74ca4b2003a9f4c5a2eb81ff48943b3b0c2a9ece7"
+
+[update]
+[update.modrinth]
+mod-id = "4dEFIhvD"
+version = "woEatwDX"

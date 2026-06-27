@@ -105,6 +105,10 @@ file = "mods/bettercoppergolem.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/big-water.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 metafile = true
 
@@ -233,6 +237,10 @@ file = "mods/copycats-createfly-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cosy-critters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/countereds-smooth-f5.pw.toml"
 metafile = true
 
@@ -305,6 +313,10 @@ file = "mods/directional_melons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dirigo.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/discord-mc-chat.pw.toml"
 metafile = true
 
@@ -325,7 +337,15 @@ file = "mods/easy-anvils.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/easy-auto-restart.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/easy-building.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
@@ -425,7 +445,15 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/friendly-rabbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
@@ -534,6 +562,10 @@ metafile = true
 
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kitchen-projectiles.pw.toml"
 metafile = true
 
 [[files]]
@@ -653,7 +685,7 @@ file = "mods/natural-sizes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/natural-waters.pw.toml"
+file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
@@ -885,6 +917,10 @@ file = "mods/slime-time.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/smart-feeding-troughs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/smooth-join.pw.toml"
 metafile = true
 
@@ -1078,6 +1114,10 @@ metafile = true
 
 [[files]]
 file = "mods/zombieimprovements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]

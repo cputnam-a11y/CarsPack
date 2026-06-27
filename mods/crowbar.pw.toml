@@ -1,13 +1,13 @@
 name = "CrowBar"
-filename = "CrowBar-26.1.x-0.1.10.jar"
+filename = "CrowBar-26.1.x-0.1.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yP7IdsBH/versions/gByByHsY/CrowBar-26.1.x-0.1.10.jar"
+url = "https://cdn.modrinth.com/data/yP7IdsBH/versions/Zdg0azRW/CrowBar-26.1.x-0.1.11.jar"
 hash-format = "sha512"
-hash = "6edda3be08ec417952f4236c4e0c1059f1875b630f6376eea1f0a09b4b6f05ffb87d8b759c17c1b01a01e716db5c1a681e935a302a97d080103d118f6e9c6199"
+hash = "57a19c8bbf757577b9ebd8c69159a30dec5b2036209b5539b0ca0864bdb83181111f9df556ea9d13aa0813a67fb26c4b3765a8bfcf0e5579c4bfc7e0568582f9"
 
 [update]
 [update.modrinth]
 mod-id = "yP7IdsBH"
-version = "gByByHsY"
+version = "Zdg0azRW"

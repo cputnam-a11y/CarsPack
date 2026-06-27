@@ -1,0 +1,13 @@
+name = "Easy Auto Restart"
+filename = "easyAutoRestart-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z8pAzvfg/versions/NWw2Cukn/easyAutoRestart-1.0.0.jar"
+hash-format = "sha512"
+hash = "17a0662305c425f4e964579d5fb550d550bc247ac69dd05f4d1435a68c751ecd81fdcc37eaf347cc91971319cbd1794db12a308e4ef202ddd9aad175d4efa576"
+
+[update]
+[update.modrinth]
+mod-id = "Z8pAzvfg"
+version = "NWw2Cukn"

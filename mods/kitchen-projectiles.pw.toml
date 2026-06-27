@@ -1,0 +1,13 @@
+name = "Kitchen Projectiles"
+filename = "kitchenprojectiles-1.0.12+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BYmvNgRP/versions/9vn66gUG/kitchenprojectiles-1.0.12%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "913afb201d8aca73180f9c5557c21294394ad5f457cb01845a20a7cf0b9c9d41ff0d9472732d334256a09c5c5373ca9c952865140380c6d22814219368335b3e"
+
+[update]
+[update.modrinth]
+mod-id = "BYmvNgRP"
+version = "9vn66gUG"
