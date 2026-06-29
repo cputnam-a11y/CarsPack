@@ -1,13 +1,13 @@
 name = "Pyrite"
-filename = "pyrite-0.18.1+26.1.2-fabric.jar"
+filename = "pyrite-0.18.2+26.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/b6DjzjKJ/pyrite-0.18.1%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/Kx1fyfPC/pyrite-0.18.2%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "f690c1bbbb01d44fcec32ef9144ebd13b30a1310ff663ec2934e0c574b332b3f21f1ed51c57c337870637d684d958e19c1c29b17b616bfbc0395697b250f07c6"
+hash = "4009c38018790fe2d0215487b423687dd3c0ee92b4f66c5ad72c792714ba4e3b3d713fefdb2982155a5f1dac89b3007a92b1b3fdbaa9ea44c0bf189ab7954dfb"
 
 [update]
 [update.modrinth]
 mod-id = "qO4ozPoe"
-version = "b6DjzjKJ"
+version = "Kx1fyfPC"

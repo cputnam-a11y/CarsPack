@@ -1,0 +1,15 @@
+name = "create_fly_dyeable_chains"
+filename = "create_fly_dyeable_chains-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cputnam-a11y/create_fly_dyeable_chains/releases/download/v1/create_fly_dyeable_chains-1.0.0.jar"
+hash-format = "sha256"
+hash = "1750c3aea1845ec9798ae4ef53cbe7fbbd2b1b707b02d7dfcdbf1b1dd66ca06f"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "cputnam-a11y/create_fly_dyeable_chains"
+tag = "v1"

@@ -1,0 +1,13 @@
+name = "Better Fluid Placement"
+filename = "better-fluid-placement-1.0.0+mc26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rCnou44z/versions/zMHqCt3c/better-fluid-placement-1.0.0%2Bmc26.1.jar"
+hash-format = "sha512"
+hash = "3ee4f7c8f0463d26660e128e3442d701738bb2ab504e2ca5da617dba8077f1724f11c19ddfde7da07ea2190e6ee3b8ef09c2110047f0404b644bcab75568ed71"
+
+[update]
+[update.modrinth]
+mod-id = "rCnou44z"
+version = "zMHqCt3c"

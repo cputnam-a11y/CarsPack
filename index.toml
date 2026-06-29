@@ -93,6 +93,10 @@ file = "mods/better-climbing.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-fluid-placement.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-mc-screenshots.pw.toml"
 metafile = true
 
@@ -258,6 +262,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-emf-compat-skyhook.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-dyeable-chains.pw.toml"
 metafile = true
 
 [[files]]
@@ -633,10 +641,6 @@ file = "mods/map-distance-fix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/maplink.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
 metafile = true
 
@@ -762,6 +766,10 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph_plus.pw.toml"
 metafile = true
 
 [[files]]
@@ -962,6 +970,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackable-trims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stormies-spiders.pw.toml"
 metafile = true
 
 [[files]]

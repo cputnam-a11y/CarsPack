@@ -1,13 +1,13 @@
 name = "Xaero's Maps x Waystones"
-filename = "xmxw-2.10.1+26.1.2-fabric.jar"
+filename = "xmxw-2.11.0+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iv2jCzkP/versions/k7wwcQ4t/xmxw-2.10.1%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/iv2jCzkP/versions/BJriT5Yy/xmxw-2.11.0%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "47b3bfd0424335df10b3ac46b2873db4803d89918554b9669a0b39e1f43a385dd625bf0b650e0f28dc5fac2f7e767a35465440fda7db0d86635dec3417884fd8"
+hash = "75cc39d6b227ced6772204c78afcab670a45ee07d2b7dd03c7dcbf56a9080c4ee581519db95ad82b919ce39b3787e8c6591c3ed818938914121238697d87066f"
 
 [update]
 [update.modrinth]
 mod-id = "iv2jCzkP"
-version = "k7wwcQ4t"
+version = "BJriT5Yy"
