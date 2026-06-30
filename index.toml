@@ -921,10 +921,6 @@ file = "mods/sleep-warp-updated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/slime-time.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/smart-feeding-troughs.pw.toml"
 metafile = true
 
