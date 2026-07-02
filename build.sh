@@ -14,7 +14,7 @@ cd ..
 
 rm -rf build
 mkdir -p build
-cp -r config resourcepacks mods index.toml pack.toml build
+cp -r config mods index.toml pack.toml build
 cp mod/build/libs/* build/mods
 
 cd build
@@ -25,3 +25,4 @@ cp -r ./* ../out/
 mkdir SillyCars
 cp -r ../unsup/* ./SillyCars
 zip -r ../out/SillyCars.zip SillyCars
+
