@@ -1,13 +1,13 @@
 name = "Slime Time"
-filename = "slime_time-1.2.0+26.1.2-fabric.jar"
+filename = "slime_time-1.2.1+26.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RRsJmoGM/versions/3u86KgjN/slime_time-1.2.0%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/RRsJmoGM/versions/wM8KRy5m/slime_time-1.2.1%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "7819ef9711912ea7fded0c087a6bf29bc3a76951975022d9d66ad2f2a05ea57bc75f2330d6b08b73fdd9c8a34279f443d7f1507fb4227bb99d0b93494e3a244c"
+hash = "207ba6283f6094c391dc756f796d881ce42709319de7efc58c9f1e56d03181b57161b1fcfd71818f33cbd0df0b279d0b8703aa0d005a0c248a54c224b638a6e1"
 
 [update]
 [update.modrinth]
 mod-id = "RRsJmoGM"
-version = "3u86KgjN"
+version = "wM8KRy5m"

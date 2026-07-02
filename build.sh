@@ -14,7 +14,7 @@ cd ..
 
 rm -rf build
 mkdir -p build
-cp -r mods index.toml pack.toml build
+cp -r config resourcepacks mods index.toml pack.toml build
 cp mod/build/libs/* build/mods
 
 cd build
